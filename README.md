@@ -16,7 +16,7 @@ To get started with this project, you need to have Python and Jupyter Notebook i
 
 1. Clone the repository:
     ```sh
-(https://github.com/yoshubham08/Boxify-Project.git)
+(https://github.com/kulkarnisudhanva/Boxify-project)
     cd boxify-project
     ```
 
